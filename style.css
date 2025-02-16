@@ -1,0 +1,6 @@
+.navbaar{
+    left: 0;
+    right: 0;
+    background-color: black;
+    display: flex;
+}
